@@ -34,7 +34,7 @@ api.chipdoc("CHIPSET_HERE");
 This function let's you use the ``/members`` endpoint in the api easily. You get all data returned in easy to use **JSON**.  
 The function works in async.  
 #### Information  
-» Required parameters:
+» Required parameters:  
 ``none``  
 » Function example:  
 ```js
@@ -49,7 +49,7 @@ api.members();
 This function returns a link to the API README.md  
 The function does not work in async.  
 #### Information  
-» Required parameters:
+» Required parameters:  
 ``none``  
 » Function example:  
 ```js
