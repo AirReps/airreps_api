@@ -1,0 +1,25 @@
+{
+  "name": "airreps-api",
+  "version": "1.0.0",
+  "description": "An AirReps API wrapper for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "AirReps",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "superagent": "^6.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AirReps/airreps_api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AirReps/airreps_api/issues"
+  },
+  "homepage": "https://github.com/AirReps/airreps_api#readme"
+}
